@@ -1,4 +1,4 @@
-Program 2
+## Program 2
 
 This program will take a image file and edit it.
 
